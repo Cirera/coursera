@@ -1,5 +1,5 @@
 # coursera
-## secondary title
-### tertiary title
+## secondary heading
+### tertiary heading
 
 First repo. Just trying
